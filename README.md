@@ -33,5 +33,7 @@ portfolio/
 ## 👤 Author
 
 **Md. Naimul Islam**
+**Department of CSE**
+**Daffodil International University**
 
 ⭐ If you like this project, feel free to star the repository!
